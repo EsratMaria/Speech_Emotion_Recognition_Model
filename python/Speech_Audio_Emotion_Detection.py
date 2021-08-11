@@ -90,7 +90,7 @@ plt.title("Waveplot for a particular audio representing SAD emotion after noise 
 librosa.display.waveplot(audio_injected_data, sr=sampling_rate)
 plt.show()
 
-
+dataset = dataset.head(50)
 # Feature extraction
 
 X, Y = [], []
