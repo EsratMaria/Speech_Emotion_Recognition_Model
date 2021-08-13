@@ -9,9 +9,9 @@ Emotion recognition is the part of speech recognition which is gaining more popu
 ### Emotions in the dataset
 ![emo](/images/emo.png)
 ### Waveplot of a sample audio
-![waveplot](/images/logo.png)
+![waveplot](/images/wave.png)
 ### Spectogram of a sample audio
-![spec](/images/logo.png)
+![spec](/images/spec.png)
 
 ## How it works
 I use this dataframe of extracted features to train the model later.
