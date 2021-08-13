@@ -44,13 +44,9 @@ The prediction made by above model to detect the emotion of a given audio is giv
 ```
       Actual  Predict
 4542  angry  disgust
-
 5163  happy  neutral
-
 4098  happy  disgust
-
 4021  happy  neutral
-
 1570    sad  neutral
 
 ```
