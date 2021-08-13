@@ -36,6 +36,7 @@ noise_amp = 0.035 * np.random.uniform() * np.amax(value)
 ```
 ## Model & Prediction accuracy:
 > Used Model: MLPClassifier
+
 > MLPClassifier(alpha=0.839903176695813, batch_size=150, hidden_layer_sizes=100,
               learning_rate='adaptive', max_iter=100000, solver='sgd')
               
