@@ -25,5 +25,10 @@ I use this dataframe of extracted features to train the model later.
 
 > MFCC: Mel Frequency Cepstral Coefficients form a cepstral representation where the frequency bands are not linear but distributed according to the mel-scale.
 
+### Data Augmentation Techniques
+With this technique, I try to create new synthetic data samples by adding minor modifications on the initial training set. I apply **Noise Injection**  to make synthetic data in this repo. 
+```
+noise_amp = 0.035 * np.random.uniform() * np.amax(value)
+```
 
 
