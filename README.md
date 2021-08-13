@@ -13,6 +13,8 @@ Emotion recognition is the part of speech recognition which is gaining more popu
 
 ![waveplot](/images/wave.png)
 #### Spectogram of a sample audio
+``A spectrogram is a visual representation of the spectrum of frequencies of sound or other signals as they vary with time. ``
+
 ![spec](/images/spec.png)
 
 ## How it works
