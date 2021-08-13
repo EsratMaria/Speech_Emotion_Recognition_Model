@@ -20,3 +20,8 @@ Emotion recognition is the part of speech recognition which is gaining more popu
 ## How it works
 In this repo, I extract features like **MFCC** and **mel-spectogram** from each audio file in the dataset. The extracted data is added to a new dataframe with it's assiciated emotion.
 I use this dataframe of extracted features to train the model later.
+
+> MFCC: Mel Frequency Cepstral Coefficients form a cepstral representation where the frequency bands are not linear but distributed according to the mel-scale.
+
+
+
