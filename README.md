@@ -1,5 +1,4 @@
-# Speech Emotion Recognition Model
-A speech emotion detection classifier on CREMA dataset. This classifier attempts to recognize human emotion and affective states from speech.
+# Speech Emotion Detection Classifier
 
-(to be added soon)
+Emotion recognition is the part of speech recognition which is gaining more popularity and need for it increases enormously.
 
