@@ -42,12 +42,13 @@ noise_amp = 0.035 * np.random.uniform() * np.amax(value)
               
 The prediction made by above model to detect the emotion of a given audio is given below:
 ```
-      Actual  Predict
-4542  angry  disgust
-5163  happy  neutral
-4098  happy  disgust
-4021  happy  neutral
-1570    sad  neutral
+<<<===========================================>>>
+       Actual  Predict
+1011    angry    angry
+1689  neutral  neutral
+6092    angry    angry
+6231    angry  disgust
+7334  neutral  disgust
 
 ```
 
