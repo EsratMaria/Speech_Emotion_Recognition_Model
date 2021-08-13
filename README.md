@@ -5,4 +5,6 @@ Emotion recognition is the part of speech recognition which is gaining more popu
 ## Dataset
 - Crowd-sourced Emotional Mutimodal Actors Dataset (Crema-D)
 
+## How it works
+
 
