@@ -12,7 +12,7 @@ Emotion recognition is the part of speech recognition which is gaining more popu
 `` Waveplots let us know the loudness of the audio at a given time.``
 
 ![waveplot](/images/wave.png)
-#### Spectogram of a sample audio 
+#### Spectogram of a sample audio
 ``A spectrogram is a visual representation of the spectrum of frequencies of sound or other signals as they vary with time. ``
 
 ![spec](/images/spec.png)
