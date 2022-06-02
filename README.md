@@ -1,12 +1,12 @@
-# Speech Emotion Detection Classifier
+# Speech Emotion Detection Classifier       
 
 Emotion recognition is the part of speech recognition which is gaining more popularity and need for it increases enormously. In this repo, I attempt to use deep learning to recognize the emotions from data.
 
-## Dataset
+## Dataset       
 - Crowd-sourced Emotional Mutimodal Actors Dataset (Crema-D)
 - Emotions included in this dataset: ``sad, angry, disgust, neutral, happy, and fear``
   - Each path to the audio is extracted with it's associated emotion.
-#### Emotions count in the dataset
+#### Emotions count in the dataset           
 ![emo](/images/emo.png)
 #### Waveplot of a sample audio
 `` Waveplots let us know the loudness of the audio at a given time.``
