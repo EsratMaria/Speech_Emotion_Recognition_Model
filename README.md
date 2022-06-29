@@ -9,7 +9,7 @@ Emotion recognition is the part of speech recognition which is gaining more popu
 #### Emotions count in the dataset
 ![emo](/images/emo.png)
 #### Waveplot of a sample audio
-`` Waveplots let us know the loudness of the audio at a given time.``
+`` Waveplots let us know the loudness of the audio at a given time.`` 
 
 ![waveplot](/images/wave.png)
 #### Spectogram of a sample audio
