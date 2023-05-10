@@ -7,7 +7,7 @@ Emotion recognition is the part of speech recognition which is gaining more popu
 - Emotions included in this dataset: ``sad, angry, disgust, neutral, happy, and fear``
   - Each path to the audio is extracted with it's associated emotion.
 #### Emotions count in the dataset
-![emo](/images/emo.png)       
+![emo](/images/emo.png)      
 #### Waveplot of a sample audio
 `` Waveplots let us know the loudness of the audio at a given time.``
 
