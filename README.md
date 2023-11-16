@@ -1,5 +1,5 @@
 # Speech Emotion Detection Classifier
-  
+
 Emotion recognition is the part of speech recognition that is gaining more popularity and the need for it increases enormously. In this repo, I attempt to use deep learning to recognize the emotions from data.
 
 ## Dataset
