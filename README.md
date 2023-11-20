@@ -40,7 +40,7 @@ noise_amp = 0.035 * np.random.uniform() * np.amax(value)
 > MLPClassifier(alpha=0.839903176695813, batch_size=150, hidden_layer_sizes=100,
               learning_rate='adaptive', max_iter=100000, solver='sgd')
               
-The prediction made by above model to detect the emotion of a given audio is given below:
+The prediction made by the above model to detect the emotion of a given audio is given below:
 ```
 <<<===========================================>>>
        Actual  Predict
