@@ -30,7 +30,7 @@ Later, this dataframe is normalized to prepare it for training and testing.
 - train_test_split()
 
 ### Data Augmentation Techniques
-With this technique, I try to create new synthetic data samples by adding minor modifications on the initial training set. I apply **Noise Injection**  to make synthetic data in this repo. 
+With this technique, I try to create new synthetic data samples by adding minor modifications to the initial training set. I apply **Noise Injection**  to make synthetic data in this repo. 
 ```
 noise_amp = 0.035 * np.random.uniform() * np.amax(value)
 ```
