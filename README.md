@@ -4,7 +4,7 @@ Emotion recognition is the part of speech recognition that is gaining more popul
 
 ## Dataset
 - Crowd-sourced Emotional Mutimodal Actors Dataset (Crema-D)
-- Emotions included in this dataset: ``sad, angry, disgust, neutral, happy, and fear``c
+- Emotions included in this dataset: ``sad, angry, disgust, neutral, happy, and fear``
   - Each path to the audio is extracted with its associated emotion.
 #### Emotions count in the dataset
 ![emo](/images/emo.png)
